@@ -37,7 +37,8 @@ body {
 }
 
 .form__big--indent {
-  margin: 20px auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .form__big--indent::before {
